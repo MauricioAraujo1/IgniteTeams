@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Aplicação desenvolvida com o objetivo de demonstrar meus conhecimentos em React Native e Local Storage.
+  Aplicação mobile desenvolvida com o objetivo de demonstrar meus conhecimentos em React Native e Local Storage.
 </h4>
 
 
