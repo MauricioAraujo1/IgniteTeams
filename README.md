@@ -42,7 +42,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 <span class="pl-c"><span class="pl-c">#</span> Clone este repositório</span>
 ```
-https://github.com/MauricioAraujo1/imhere-app.git
+https://github.com/MauricioAraujo1/IgniteTeams.git
 ```
 
 <h3>🧭 Rodando a aplicação mobile</h3>
