@@ -61,7 +61,7 @@ code .
 expo start
 ```
 
-<span class="pl-c"><span class="pl-c">#</span>Caso esteja no emulador, digite a tecla:</span>
+<span class="pl-c"><span class="pl-c">#</span>Caso esteja no Android Studio, para abrir a aplicação no seu emulador, digite a tecla:</span>
 
 ```
 "A"
