@@ -67,7 +67,7 @@ expo start
 "A"
 ```
 
-<span class="pl-c"><span class="pl-c">#</span>Caso queira rodar no Smartphone Android, você pode scannear o QR Code ou acessar o link no Expo Go</span>
+<span class="pl-c"><span class="pl-c">#</span>Caso queira rodar no Smartphone Android, você pode scannear o QR Code ou acessar o link no Expo Go.</span>
 
 # 🤝 Suporte 
 Contribuições, questões e pedidos de recursos são bem-vindos!<br />Esteja à vontade para verificar [issues page](https://github.com/MauricioAraujo1/IgniteTeams/issues).
