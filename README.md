@@ -55,11 +55,19 @@ npm install
 code .
 
 ```
-<span class="pl-c"><span class="pl-c">#</span>Depois de ter aberto o projeto no vscode, você precisa instalar no seu Android o aplicativo Expo Go, e logar na sua conta ou criar. Depois disso, você vai no terminal do seu vscode e escreva: expo start, caso vc ja tenha o expo instalado. Caso não consiga instalar o expo, basta acessar o link da documentção que explica passo a passo a como instalar o expo, e também recomendo você utilizar o managed, foi esse que utilizei! Também você poderá usar a a plicação através do emulador do Android Studio</span>
+<span class="pl-c"><span class="pl-c">#</span>Depois de ter aberto o projeto no vscode, apenas digite o comando no terminal:</span>
 
 ```
-https://docs.expo.dev/
+expo start
 ```
+
+<span class="pl-c"><span class="pl-c">#</span>Caso esteja no emulador, digite a tecla:</span>
+
+```
+"A"
+```
+
+<span class="pl-c"><span class="pl-c">#</span>Caso queira rodar no Smartphone Android, você pode scannear o QR Code ou acessar o link no Expo Go</span>
 
 # 🤝 Suporte 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/imhere-app/issues).
