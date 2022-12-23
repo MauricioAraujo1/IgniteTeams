@@ -54,7 +54,7 @@ cd IgniteTeams
 npm install
 code .
 ```
-<span class="pl-c"><span class="pl-c">#</span>Depois de ter aberto o projeto no vscode, apenas digite o comando no terminal:</span>
+<span class="pl-c"><span class="pl-c">#</span>Depois de ter iniciado o projeto no vscode, apenas digite o comando no terminal:</span>
 
 ```
 expo start
