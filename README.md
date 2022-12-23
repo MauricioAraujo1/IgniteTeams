@@ -70,7 +70,7 @@ expo start
 <span class="pl-c"><span class="pl-c">#</span>Caso queira rodar no Smartphone Android, você pode scannear o QR Code ou acessar o link no Expo Go</span>
 
 # 🤝 Suporte 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/IgniteTeams/issues).
+Contribuições, questões e pedidos de recursos são bem-vindos!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/IgniteTeams/issues).
 
 # 👤 Autor
 **🕵 Maurício Araújo**
